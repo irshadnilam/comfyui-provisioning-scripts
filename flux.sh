@@ -19,7 +19,7 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-
+    "https://github.com/ltdrdata/ComfyUI-Manager"
 )
 
 CHECKPOINT_MODELS=(
